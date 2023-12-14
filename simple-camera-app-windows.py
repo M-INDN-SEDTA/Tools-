@@ -1,4 +1,5 @@
 # pip install opencv-python
+# Simple camera app program using Python's tkinter and opencv-python libraries. It includes a canvas to display the camera feed, an entry for setting the save location, and buttons for capturing an image, browsing the save location, and quitting the app.
 
 import cv2
 import tkinter as tk
