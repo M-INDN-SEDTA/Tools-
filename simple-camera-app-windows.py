@@ -57,3 +57,6 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = CameraApp(root)
     root.mainloop()
+
+
+# python camera_app.py  -------------- to run ----------------- #
